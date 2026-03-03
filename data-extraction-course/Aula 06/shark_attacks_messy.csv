@@ -1,0 +1,846 @@
+ID_Caso;Tipo_Ataque;Pais;Idade_Vitima;Especie_Tubarao
+1;Não Provocado;USA;46.0;Tubarão Branco
+2;Provocado;USA;55.0;
+3;Provocado;BRAZIL;62.0;Tubarão Tigre
+4;Não Provocado;USA;22.0;
+5;Provocado;SOUTH AFRICA;;Tubarão Branco
+6;Desastre Marítimo;BRAZIL;66.0;Tubarão Branco
+7;Provocado;SOUTH AFRICA;13.0;Tubarão Tigre
+8;Provocado;AUSTRALIA;58.0;
+9;Provocado;USA;16.0;Tubarão Tigre
+10;Desastre Marítimo;AUSTRALIA;20.0;Tubarão Tigre
+11;Não Provocado;AUSTRALIA;;
+12;Desastre Marítimo;USA;54.0;Tubarão Tigre
+13;Não Provocado;BRAZIL;32.0;Tubarão Branco
+14;Não Provocado;USA;37.0;
+15;Não Provocado;AUSTRALIA;;
+16;Provocado;AUSTRALIA;35.0;
+17;Provocado;BRAZIL;34.0;
+18;Não Provocado;USA;;Tubarão Tigre
+19;Não Provocado;AUSTRALIA;;Tubarão Tigre
+20;Provocado;SOUTH AFRICA;45.0;Tubarão Branco
+21;Desastre Marítimo;AUSTRALIA;23.0;Tubarão Cabeça-Chata
+22;Não Provocado;AUSTRALIA;44.0;Tubarão Cabeça-Chata
+23;Desastre Marítimo;BRAZIL;;Tubarão Branco
+24;Provocado;SOUTH AFRICA;26.0;Tubarão Cabeça-Chata
+25;Não Provocado;AUSTRALIA;76.0;Tubarão Branco
+26;Desastre Marítimo;AUSTRALIA;39.0;Tubarão Tigre
+27;Desastre Marítimo;SOUTH AFRICA;54.0;
+28;Desastre Marítimo;USA;60.0;
+29;Provocado;USA;56.0;Tubarão Tigre
+30;Provocado;AUSTRALIA;62.0;
+31;Desastre Marítimo;AUSTRALIA;73.0;
+32;Desastre Marítimo;USA;47.0;Tubarão Cabeça-Chata
+33;Provocado;BRAZIL;73.0;Tubarão Tigre
+34;Desastre Marítimo;SOUTH AFRICA;;Tubarão Cabeça-Chata
+35;Desastre Marítimo;SOUTH AFRICA;31.0;Tubarão Cabeça-Chata
+36;Provocado;BRAZIL;50.0;
+37;Desastre Marítimo;BRAZIL;19.0;
+38;Desastre Marítimo;BRAZIL;66.0;Tubarão Tigre
+39;Desastre Marítimo;BRAZIL;16.0;
+40;Provocado;BRAZIL;59.0;
+41;Desastre Marítimo;BRAZIL;;Tubarão Tigre
+42;Provocado;SOUTH AFRICA;42.0;
+43;Provocado;BRAZIL;10.0;Tubarão Cabeça-Chata
+44;Não Provocado;USA;62.0;Tubarão Tigre
+45;Não Provocado;BRAZIL;69.0;
+46;Desastre Marítimo;BRAZIL;43.0;Tubarão Branco
+47;Provocado;SOUTH AFRICA;13.0;Tubarão Tigre
+48;Não Provocado;SOUTH AFRICA;;Tubarão Tigre
+49;Desastre Marítimo;BRAZIL;13.0;Tubarão Branco
+50;Não Provocado;SOUTH AFRICA;;
+51;Não Provocado;AUSTRALIA;13.0;
+52;Provocado;SOUTH AFRICA;10.0;Tubarão Tigre
+53;Provocado;SOUTH AFRICA;59.0;Tubarão Tigre
+54;Não Provocado;SOUTH AFRICA;;
+55;Não Provocado;SOUTH AFRICA;;
+56;Provocado;USA;17.0;Tubarão Cabeça-Chata
+57;Desastre Marítimo;USA;33.0;Tubarão Tigre
+58;Provocado;USA;45.0;Tubarão Tigre
+59;Não Provocado;BRAZIL;59.0;Tubarão Branco
+60;Desastre Marítimo;BRAZIL;;Tubarão Cabeça-Chata
+61;Não Provocado;AUSTRALIA;;
+62;Desastre Marítimo;USA;41.0;Tubarão Cabeça-Chata
+63;Não Provocado;BRAZIL;;
+64;Desastre Marítimo;SOUTH AFRICA;37.0;
+65;Desastre Marítimo;SOUTH AFRICA;38.0;Tubarão Cabeça-Chata
+66;Não Provocado;USA;25.0;Tubarão Tigre
+67;Desastre Marítimo;AUSTRALIA;56.0;
+68;Provocado;AUSTRALIA;68.0;Tubarão Cabeça-Chata
+69;Não Provocado;SOUTH AFRICA;40.0;Tubarão Branco
+70;Provocado;AUSTRALIA;13.0;Tubarão Cabeça-Chata
+71;Não Provocado;USA;;Tubarão Branco
+72;Desastre Marítimo;SOUTH AFRICA;26.0;
+73;Desastre Marítimo;BRAZIL;48.0;Tubarão Cabeça-Chata
+74;Desastre Marítimo;BRAZIL;57.0;Tubarão Cabeça-Chata
+75;Não Provocado;AUSTRALIA;55.0;Tubarão Branco
+76;Provocado;SOUTH AFRICA;57.0;Tubarão Cabeça-Chata
+77;Provocado;SOUTH AFRICA;;Tubarão Cabeça-Chata
+78;Não Provocado;BRAZIL;13.0;
+79;Não Provocado;SOUTH AFRICA;39.0;Tubarão Cabeça-Chata
+80;Provocado;SOUTH AFRICA;39.0;Tubarão Tigre
+81;Provocado;SOUTH AFRICA;31.0;Tubarão Branco
+82;Provocado;AUSTRALIA;75.0;Tubarão Cabeça-Chata
+83;Provocado;SOUTH AFRICA;21.0;Tubarão Branco
+84;Não Provocado;USA;45.0;Tubarão Branco
+85;Não Provocado;AUSTRALIA;27.0;Tubarão Branco
+86;Desastre Marítimo;SOUTH AFRICA;;Tubarão Cabeça-Chata
+87;Provocado;SOUTH AFRICA;10.0;Tubarão Cabeça-Chata
+88;Desastre Marítimo;USA;67.0;Tubarão Branco
+89;Não Provocado;AUSTRALIA;;Tubarão Tigre
+90;Não Provocado;BRAZIL;79.0;Tubarão Branco
+91;Desastre Marítimo;BRAZIL;53.0;Tubarão Tigre
+92;Provocado;AUSTRALIA;33.0;Tubarão Branco
+93;Provocado;SOUTH AFRICA;28.0;
+94;Provocado;SOUTH AFRICA;27.0;Tubarão Branco
+95;Provocado;BRAZIL;;Tubarão Branco
+96;Desastre Marítimo;BRAZIL;51.0;Tubarão Cabeça-Chata
+97;Desastre Marítimo;BRAZIL;42.0;Tubarão Tigre
+98;Não Provocado;USA;21.0;
+99;Provocado;BRAZIL;36.0;Tubarão Tigre
+100;Provocado;USA;48.0;
+101;Provocado;AUSTRALIA;18.0;Tubarão Branco
+102;Desastre Marítimo;SOUTH AFRICA;30.0;Tubarão Cabeça-Chata
+103;Provocado;BRAZIL;38.0;Tubarão Cabeça-Chata
+104;Desastre Marítimo;SOUTH AFRICA;;Tubarão Tigre
+105;Provocado;SOUTH AFRICA;71.0;Tubarão Cabeça-Chata
+106;Provocado;BRAZIL;24.0;Tubarão Tigre
+107;Não Provocado;BRAZIL;11.0;Tubarão Tigre
+108;Provocado;AUSTRALIA;61.0;
+109;Provocado;USA;53.0;Tubarão Tigre
+110;Não Provocado;USA;;
+111;Desastre Marítimo;SOUTH AFRICA;27.0;Tubarão Cabeça-Chata
+112;Desastre Marítimo;BRAZIL;12.0;Tubarão Tigre
+113;Provocado;AUSTRALIA;;Tubarão Tigre
+114;Desastre Marítimo;AUSTRALIA;52.0;Tubarão Branco
+115;Provocado;AUSTRALIA;47.0;Tubarão Tigre
+116;Não Provocado;AUSTRALIA;46.0;Tubarão Tigre
+117;Não Provocado;AUSTRALIA;67.0;Tubarão Branco
+118;Provocado;USA;42.0;Tubarão Branco
+119;Não Provocado;USA;68.0;Tubarão Cabeça-Chata
+120;Não Provocado;USA;20.0;Tubarão Tigre
+121;Provocado;BRAZIL;;Tubarão Cabeça-Chata
+122;Provocado;SOUTH AFRICA;77.0;Tubarão Cabeça-Chata
+123;Não Provocado;AUSTRALIA;31.0;Tubarão Branco
+124;Desastre Marítimo;BRAZIL;;
+125;Desastre Marítimo;AUSTRALIA;53.0;Tubarão Cabeça-Chata
+126;Provocado;USA;15.0;
+127;Provocado;BRAZIL;;Tubarão Tigre
+128;Desastre Marítimo;USA;34.0;Tubarão Branco
+129;Não Provocado;AUSTRALIA;66.0;Tubarão Tigre
+130;Desastre Marítimo;AUSTRALIA;;Tubarão Tigre
+131;Desastre Marítimo;SOUTH AFRICA;25.0;Tubarão Branco
+132;Desastre Marítimo;AUSTRALIA;23.0;Tubarão Tigre
+133;Desastre Marítimo;USA;48.0;Tubarão Branco
+134;Provocado;AUSTRALIA;37.0;
+135;Provocado;SOUTH AFRICA;60.0;Tubarão Tigre
+136;Não Provocado;SOUTH AFRICA;;Tubarão Branco
+137;Não Provocado;USA;18.0;Tubarão Cabeça-Chata
+138;Não Provocado;BRAZIL;67.0;Tubarão Tigre
+139;Não Provocado;AUSTRALIA;;
+140;Desastre Marítimo;SOUTH AFRICA;31.0;Tubarão Branco
+141;Provocado;AUSTRALIA;41.0;Tubarão Tigre
+142;Provocado;AUSTRALIA;;Tubarão Tigre
+143;Não Provocado;BRAZIL;78.0;Tubarão Tigre
+144;Não Provocado;SOUTH AFRICA;51.0;
+145;Desastre Marítimo;AUSTRALIA;;Tubarão Branco
+146;Desastre Marítimo;SOUTH AFRICA;68.0;Tubarão Cabeça-Chata
+147;Não Provocado;USA;48.0;Tubarão Cabeça-Chata
+148;Provocado;USA;;Tubarão Cabeça-Chata
+149;Provocado;AUSTRALIA;38.0;Tubarão Branco
+150;Provocado;SOUTH AFRICA;12.0;Tubarão Cabeça-Chata
+151;Não Provocado;AUSTRALIA;;
+152;Provocado;SOUTH AFRICA;38.0;Tubarão Branco
+153;Desastre Marítimo;SOUTH AFRICA;44.0;Tubarão Tigre
+154;Desastre Marítimo;BRAZIL;15.0;
+155;Não Provocado;BRAZIL;21.0;Tubarão Tigre
+156;Desastre Marítimo;BRAZIL;;Tubarão Cabeça-Chata
+157;Não Provocado;AUSTRALIA;28.0;
+158;Provocado;BRAZIL;76.0;Tubarão Branco
+159;Provocado;BRAZIL;17.0;
+160;Provocado;USA;;Tubarão Tigre
+161;Desastre Marítimo;SOUTH AFRICA;56.0;Tubarão Branco
+162;Não Provocado;SOUTH AFRICA;13.0;
+163;Provocado;BRAZIL;60.0;
+164;Não Provocado;SOUTH AFRICA;76.0;
+165;Provocado;USA;;
+166;Desastre Marítimo;USA;17.0;Tubarão Branco
+167;Desastre Marítimo;BRAZIL;25.0;Tubarão Tigre
+168;Não Provocado;USA;76.0;
+169;Desastre Marítimo;SOUTH AFRICA;18.0;Tubarão Branco
+170;Desastre Marítimo;AUSTRALIA;69.0;Tubarão Tigre
+171;Não Provocado;SOUTH AFRICA;24.0;
+172;Provocado;AUSTRALIA;50.0;Tubarão Tigre
+173;Desastre Marítimo;BRAZIL;31.0;Tubarão Tigre
+174;Não Provocado;AUSTRALIA;33.0;Tubarão Branco
+175;Desastre Marítimo;USA;;Tubarão Tigre
+176;Desastre Marítimo;SOUTH AFRICA;10.0;Tubarão Branco
+177;Desastre Marítimo;AUSTRALIA;19.0;
+178;Desastre Marítimo;SOUTH AFRICA;65.0;Tubarão Tigre
+179;Não Provocado;BRAZIL;59.0;Tubarão Tigre
+180;Não Provocado;BRAZIL;21.0;Tubarão Cabeça-Chata
+181;Não Provocado;USA;69.0;
+182;Desastre Marítimo;BRAZIL;35.0;
+183;Desastre Marítimo;AUSTRALIA;;Tubarão Cabeça-Chata
+184;Desastre Marítimo;BRAZIL;45.0;Tubarão Cabeça-Chata
+185;Não Provocado;USA;32.0;Tubarão Branco
+186;Desastre Marítimo;SOUTH AFRICA;52.0;Tubarão Branco
+187;Provocado;SOUTH AFRICA;15.0;Tubarão Tigre
+188;Desastre Marítimo;BRAZIL;78.0;Tubarão Tigre
+189;Provocado;AUSTRALIA;52.0;Tubarão Tigre
+190;Desastre Marítimo;USA;;Tubarão Tigre
+191;Não Provocado;AUSTRALIA;;Tubarão Branco
+192;Desastre Marítimo;USA;71.0;
+193;Provocado;BRAZIL;22.0;Tubarão Tigre
+194;Provocado;USA;52.0;
+195;Desastre Marítimo;USA;;Tubarão Tigre
+196;Provocado;BRAZIL;27.0;Tubarão Cabeça-Chata
+197;Provocado;AUSTRALIA;;Tubarão Tigre
+198;Não Provocado;BRAZIL;;Tubarão Tigre
+199;Desastre Marítimo;USA;72.0;Tubarão Tigre
+200;Desastre Marítimo;BRAZIL;66.0;Tubarão Branco
+201;Desastre Marítimo;USA;;Tubarão Cabeça-Chata
+202;Provocado;BRAZIL;;Tubarão Tigre
+203;Desastre Marítimo;SOUTH AFRICA;36.0;Tubarão Tigre
+204;Desastre Marítimo;SOUTH AFRICA;41.0;
+205;Não Provocado;BRAZIL;18.0;Tubarão Cabeça-Chata
+206;Não Provocado;AUSTRALIA;77.0;Tubarão Tigre
+207;Não Provocado;USA;55.0;
+208;Provocado;SOUTH AFRICA;76.0;
+209;Desastre Marítimo;AUSTRALIA;35.0;Tubarão Branco
+210;Não Provocado;USA;17.0;
+211;Não Provocado;SOUTH AFRICA;15.0;Tubarão Tigre
+212;Não Provocado;SOUTH AFRICA;33.0;Tubarão Branco
+213;Desastre Marítimo;BRAZIL;;Tubarão Branco
+214;Desastre Marítimo;USA;54.0;Tubarão Tigre
+215;Desastre Marítimo;AUSTRALIA;22.0;Tubarão Cabeça-Chata
+216;Provocado;AUSTRALIA;78.0;
+217;Provocado;AUSTRALIA;34.0;Tubarão Branco
+218;Não Provocado;USA;29.0;Tubarão Cabeça-Chata
+219;Desastre Marítimo;AUSTRALIA;;Tubarão Tigre
+220;Não Provocado;AUSTRALIA;54.0;
+221;Desastre Marítimo;AUSTRALIA;56.0;
+222;Desastre Marítimo;BRAZIL;;Tubarão Branco
+223;Desastre Marítimo;BRAZIL;;
+224;Provocado;USA;28.0;
+225;Provocado;USA;44.0;
+226;Desastre Marítimo;AUSTRALIA;;
+227;Não Provocado;BRAZIL;35.0;Tubarão Tigre
+228;Desastre Marítimo;SOUTH AFRICA;23.0;Tubarão Cabeça-Chata
+229;Desastre Marítimo;SOUTH AFRICA;54.0;Tubarão Tigre
+230;Não Provocado;AUSTRALIA;53.0;Tubarão Tigre
+231;Desastre Marítimo;AUSTRALIA;74.0;Tubarão Branco
+232;Não Provocado;BRAZIL;60.0;
+233;Provocado;BRAZIL;;Tubarão Tigre
+234;Provocado;BRAZIL;;
+235;Não Provocado;USA;65.0;Tubarão Tigre
+236;Provocado;USA;28.0;Tubarão Tigre
+237;Provocado;AUSTRALIA;64.0;Tubarão Branco
+238;Não Provocado;USA;69.0;Tubarão Cabeça-Chata
+239;Provocado;BRAZIL;68.0;Tubarão Cabeça-Chata
+240;Desastre Marítimo;BRAZIL;;Tubarão Tigre
+241;Desastre Marítimo;USA;28.0;Tubarão Branco
+242;Não Provocado;SOUTH AFRICA;37.0;
+243;Provocado;AUSTRALIA;61.0;
+244;Desastre Marítimo;SOUTH AFRICA;58.0;Tubarão Tigre
+245;Desastre Marítimo;AUSTRALIA;;Tubarão Cabeça-Chata
+246;Provocado;SOUTH AFRICA;;Tubarão Branco
+247;Provocado;USA;49.0;Tubarão Cabeça-Chata
+248;Desastre Marítimo;AUSTRALIA;47.0;
+249;Desastre Marítimo;AUSTRALIA;63.0;Tubarão Cabeça-Chata
+250;Não Provocado;AUSTRALIA;31.0;
+251;Não Provocado;BRAZIL;25.0;Tubarão Branco
+252;Desastre Marítimo;BRAZIL;37.0;Tubarão Branco
+253;Não Provocado;SOUTH AFRICA;44.0;Tubarão Tigre
+254;Desastre Marítimo;USA;69.0;Tubarão Tigre
+255;Desastre Marítimo;BRAZIL;54.0;Tubarão Cabeça-Chata
+256;Não Provocado;AUSTRALIA;;Tubarão Branco
+257;Não Provocado;BRAZIL;64.0;Tubarão Branco
+258;Provocado;USA;35.0;Tubarão Tigre
+259;Provocado;BRAZIL;34.0;
+260;Provocado;AUSTRALIA;;Tubarão Cabeça-Chata
+261;Desastre Marítimo;SOUTH AFRICA;15.0;Tubarão Cabeça-Chata
+262;Não Provocado;AUSTRALIA;32.0;Tubarão Tigre
+263;Desastre Marítimo;USA;;Tubarão Branco
+264;Não Provocado;SOUTH AFRICA;52.0;Tubarão Tigre
+265;Desastre Marítimo;BRAZIL;32.0;Tubarão Tigre
+266;Provocado;BRAZIL;;Tubarão Tigre
+267;Provocado;BRAZIL;27.0;Tubarão Tigre
+268;Provocado;SOUTH AFRICA;30.0;
+269;Desastre Marítimo;AUSTRALIA;66.0;
+270;Não Provocado;SOUTH AFRICA;;Tubarão Branco
+271;Não Provocado;SOUTH AFRICA;54.0;Tubarão Tigre
+272;Provocado;USA;;
+273;Provocado;SOUTH AFRICA;56.0;Tubarão Branco
+274;Provocado;BRAZIL;;Tubarão Tigre
+275;Provocado;AUSTRALIA;60.0;Tubarão Cabeça-Chata
+276;Não Provocado;AUSTRALIA;51.0;
+277;Desastre Marítimo;AUSTRALIA;16.0;Tubarão Branco
+278;Desastre Marítimo;BRAZIL;;Tubarão Cabeça-Chata
+279;Desastre Marítimo;BRAZIL;57.0;Tubarão Tigre
+280;Desastre Marítimo;BRAZIL;15.0;Tubarão Tigre
+281;Provocado;BRAZIL;18.0;Tubarão Tigre
+282;Provocado;BRAZIL;;
+283;Provocado;SOUTH AFRICA;40.0;Tubarão Branco
+284;Desastre Marítimo;BRAZIL;;Tubarão Cabeça-Chata
+285;Provocado;BRAZIL;49.0;Tubarão Branco
+286;Provocado;BRAZIL;54.0;
+287;Não Provocado;BRAZIL;;Tubarão Branco
+288;Não Provocado;AUSTRALIA;29.0;
+289;Provocado;BRAZIL;26.0;Tubarão Tigre
+290;Não Provocado;SOUTH AFRICA;;Tubarão Cabeça-Chata
+291;Não Provocado;SOUTH AFRICA;50.0;Tubarão Tigre
+292;Provocado;SOUTH AFRICA;75.0;Tubarão Branco
+293;Provocado;USA;34.0;Tubarão Tigre
+294;Provocado;AUSTRALIA;;Tubarão Cabeça-Chata
+295;Provocado;BRAZIL;;Tubarão Tigre
+296;Desastre Marítimo;USA;15.0;Tubarão Cabeça-Chata
+297;Desastre Marítimo;BRAZIL;47.0;Tubarão Cabeça-Chata
+298;Provocado;USA;;Tubarão Tigre
+299;Não Provocado;USA;54.0;
+300;Provocado;SOUTH AFRICA;23.0;Tubarão Branco
+301;Provocado;SOUTH AFRICA;75.0;
+302;Não Provocado;USA;49.0;
+303;Desastre Marítimo;SOUTH AFRICA;12.0;Tubarão Tigre
+304;Provocado;USA;;Tubarão Branco
+305;Provocado;AUSTRALIA;28.0;Tubarão Branco
+306;Desastre Marítimo;SOUTH AFRICA;;
+307;Desastre Marítimo;SOUTH AFRICA;;Tubarão Tigre
+308;Não Provocado;SOUTH AFRICA;;Tubarão Branco
+309;Desastre Marítimo;AUSTRALIA;;
+310;Desastre Marítimo;USA;10.0;Tubarão Branco
+311;Desastre Marítimo;BRAZIL;34.0;Tubarão Tigre
+312;Não Provocado;SOUTH AFRICA;;Tubarão Tigre
+313;Desastre Marítimo;USA;;Tubarão Tigre
+314;Desastre Marítimo;AUSTRALIA;25.0;Tubarão Branco
+315;Não Provocado;BRAZIL;28.0;Tubarão Cabeça-Chata
+316;Desastre Marítimo;SOUTH AFRICA;;Tubarão Branco
+317;Desastre Marítimo;AUSTRALIA;;Tubarão Cabeça-Chata
+318;Não Provocado;AUSTRALIA;25.0;Tubarão Tigre
+319;Provocado;BRAZIL;;
+320;Não Provocado;USA;10.0;Tubarão Cabeça-Chata
+321;Desastre Marítimo;SOUTH AFRICA;51.0;Tubarão Tigre
+322;Desastre Marítimo;SOUTH AFRICA;28.0;Tubarão Tigre
+323;Desastre Marítimo;USA;43.0;Tubarão Cabeça-Chata
+324;Não Provocado;USA;64.0;
+325;Desastre Marítimo;USA;27.0;Tubarão Tigre
+326;Desastre Marítimo;BRAZIL;43.0;Tubarão Cabeça-Chata
+327;Não Provocado;BRAZIL;54.0;
+328;Provocado;SOUTH AFRICA;15.0;
+329;Provocado;BRAZIL;;Tubarão Tigre
+330;Desastre Marítimo;AUSTRALIA;79.0;Tubarão Branco
+331;Não Provocado;SOUTH AFRICA;57.0;Tubarão Branco
+332;Desastre Marítimo;BRAZIL;48.0;Tubarão Tigre
+333;Não Provocado;USA;40.0;
+334;Não Provocado;AUSTRALIA;;Tubarão Tigre
+335;Provocado;USA;39.0;Tubarão Cabeça-Chata
+336;Provocado;SOUTH AFRICA;27.0;Tubarão Branco
+337;Não Provocado;USA;69.0;Tubarão Cabeça-Chata
+338;Desastre Marítimo;BRAZIL;24.0;Tubarão Tigre
+339;Provocado;BRAZIL;13.0;Tubarão Tigre
+340;Desastre Marítimo;SOUTH AFRICA;72.0;
+341;Provocado;USA;49.0;
+342;Provocado;SOUTH AFRICA;18.0;
+343;Desastre Marítimo;USA;;Tubarão Cabeça-Chata
+344;Provocado;AUSTRALIA;;
+345;Provocado;BRAZIL;;Tubarão Tigre
+346;Desastre Marítimo;SOUTH AFRICA;25.0;
+347;Provocado;AUSTRALIA;;Tubarão Branco
+348;Provocado;AUSTRALIA;61.0;
+349;Provocado;SOUTH AFRICA;78.0;Tubarão Cabeça-Chata
+350;Desastre Marítimo;SOUTH AFRICA;14.0;Tubarão Branco
+351;Não Provocado;AUSTRALIA;29.0;Tubarão Branco
+352;Desastre Marítimo;USA;27.0;Tubarão Branco
+353;Não Provocado;AUSTRALIA;11.0;Tubarão Cabeça-Chata
+354;Provocado;SOUTH AFRICA;22.0;Tubarão Tigre
+355;Não Provocado;AUSTRALIA;13.0;
+356;Desastre Marítimo;USA;;Tubarão Branco
+357;Desastre Marítimo;BRAZIL;70.0;Tubarão Branco
+358;Provocado;BRAZIL;17.0;Tubarão Branco
+359;Não Provocado;AUSTRALIA;76.0;Tubarão Tigre
+360;Provocado;USA;72.0;Tubarão Tigre
+361;Provocado;BRAZIL;18.0;Tubarão Cabeça-Chata
+362;Desastre Marítimo;AUSTRALIA;20.0;Tubarão Tigre
+363;Não Provocado;AUSTRALIA;;
+364;Não Provocado;USA;;Tubarão Cabeça-Chata
+365;Não Provocado;SOUTH AFRICA;45.0;Tubarão Cabeça-Chata
+366;Não Provocado;AUSTRALIA;22.0;
+367;Provocado;SOUTH AFRICA;21.0;
+368;Provocado;SOUTH AFRICA;46.0;
+369;Desastre Marítimo;BRAZIL;61.0;Tubarão Cabeça-Chata
+370;Provocado;SOUTH AFRICA;;Tubarão Cabeça-Chata
+371;Provocado;USA;65.0;Tubarão Cabeça-Chata
+372;Desastre Marítimo;BRAZIL;69.0;
+373;Desastre Marítimo;BRAZIL;32.0;
+374;Desastre Marítimo;BRAZIL;49.0;Tubarão Branco
+375;Provocado;AUSTRALIA;73.0;Tubarão Tigre
+376;Provocado;AUSTRALIA;32.0;Tubarão Branco
+377;Desastre Marítimo;SOUTH AFRICA;38.0;
+378;Desastre Marítimo;BRAZIL;;Tubarão Cabeça-Chata
+379;Desastre Marítimo;BRAZIL;78.0;
+380;Provocado;USA;40.0;Tubarão Tigre
+381;Provocado;SOUTH AFRICA;59.0;Tubarão Branco
+382;Não Provocado;USA;;Tubarão Branco
+383;Provocado;SOUTH AFRICA;;Tubarão Cabeça-Chata
+384;Provocado;SOUTH AFRICA;11.0;Tubarão Branco
+385;Provocado;AUSTRALIA;34.0;Tubarão Branco
+386;Desastre Marítimo;AUSTRALIA;;
+387;Provocado;USA;79.0;Tubarão Branco
+388;Desastre Marítimo;SOUTH AFRICA;76.0;Tubarão Branco
+389;Não Provocado;BRAZIL;67.0;Tubarão Branco
+390;Não Provocado;AUSTRALIA;73.0;Tubarão Cabeça-Chata
+391;Desastre Marítimo;BRAZIL;;Tubarão Cabeça-Chata
+392;Desastre Marítimo;USA;68.0;
+393;Desastre Marítimo;AUSTRALIA;69.0;Tubarão Branco
+394;Provocado;AUSTRALIA;71.0;Tubarão Cabeça-Chata
+395;Não Provocado;SOUTH AFRICA;25.0;Tubarão Cabeça-Chata
+396;Desastre Marítimo;USA;77.0;
+397;Provocado;SOUTH AFRICA;24.0;Tubarão Tigre
+398;Não Provocado;AUSTRALIA;64.0;Tubarão Branco
+399;Provocado;USA;44.0;Tubarão Cabeça-Chata
+400;Não Provocado;AUSTRALIA;;
+401;Provocado;USA;;
+402;Não Provocado;AUSTRALIA;58.0;
+403;Não Provocado;BRAZIL;;Tubarão Cabeça-Chata
+404;Provocado;BRAZIL;39.0;Tubarão Branco
+405;Desastre Marítimo;SOUTH AFRICA;58.0;Tubarão Tigre
+406;Não Provocado;BRAZIL;;Tubarão Branco
+407;Desastre Marítimo;AUSTRALIA;60.0;
+408;Provocado;AUSTRALIA;51.0;
+409;Desastre Marítimo;BRAZIL;26.0;Tubarão Tigre
+410;Desastre Marítimo;SOUTH AFRICA;72.0;Tubarão Branco
+411;Desastre Marítimo;BRAZIL;54.0;
+412;Desastre Marítimo;USA;16.0;
+413;Desastre Marítimo;USA;36.0;Tubarão Branco
+414;Não Provocado;USA;19.0;
+415;Não Provocado;BRAZIL;43.0;Tubarão Branco
+416;Não Provocado;BRAZIL;45.0;
+417;Provocado;BRAZIL;34.0;Tubarão Branco
+418;Desastre Marítimo;USA;15.0;Tubarão Tigre
+419;Não Provocado;SOUTH AFRICA;33.0;
+420;Provocado;AUSTRALIA;27.0;Tubarão Tigre
+421;Não Provocado;BRAZIL;15.0;
+422;Não Provocado;SOUTH AFRICA;;
+423;Desastre Marítimo;AUSTRALIA;34.0;Tubarão Cabeça-Chata
+424;Provocado;AUSTRALIA;64.0;Tubarão Branco
+425;Desastre Marítimo;AUSTRALIA;55.0;Tubarão Tigre
+426;Desastre Marítimo;SOUTH AFRICA;33.0;Tubarão Tigre
+427;Não Provocado;SOUTH AFRICA;;Tubarão Tigre
+428;Desastre Marítimo;USA;37.0;Tubarão Branco
+429;Provocado;SOUTH AFRICA;12.0;Tubarão Cabeça-Chata
+430;Desastre Marítimo;SOUTH AFRICA;47.0;Tubarão Tigre
+431;Desastre Marítimo;SOUTH AFRICA;70.0;Tubarão Branco
+432;Desastre Marítimo;AUSTRALIA;60.0;
+433;Não Provocado;BRAZIL;57.0;Tubarão Tigre
+434;Provocado;USA;;Tubarão Tigre
+435;Não Provocado;BRAZIL;;Tubarão Cabeça-Chata
+436;Não Provocado;BRAZIL;65.0;Tubarão Tigre
+437;Não Provocado;SOUTH AFRICA;68.0;Tubarão Tigre
+438;Não Provocado;USA;60.0;
+439;Não Provocado;BRAZIL;29.0;Tubarão Branco
+440;Provocado;BRAZIL;68.0;Tubarão Branco
+441;Desastre Marítimo;USA;18.0;Tubarão Cabeça-Chata
+442;Não Provocado;SOUTH AFRICA;10.0;
+443;Não Provocado;BRAZIL;;Tubarão Branco
+444;Provocado;AUSTRALIA;72.0;
+445;Provocado;BRAZIL;65.0;Tubarão Branco
+446;Desastre Marítimo;AUSTRALIA;;
+447;Provocado;SOUTH AFRICA;44.0;Tubarão Cabeça-Chata
+448;Desastre Marítimo;BRAZIL;12.0;Tubarão Tigre
+449;Não Provocado;USA;16.0;Tubarão Cabeça-Chata
+450;Não Provocado;USA;36.0;Tubarão Branco
+451;Desastre Marítimo;BRAZIL;;Tubarão Cabeça-Chata
+452;Provocado;SOUTH AFRICA;53.0;Tubarão Tigre
+453;Desastre Marítimo;SOUTH AFRICA;50.0;Tubarão Cabeça-Chata
+454;Provocado;USA;51.0;Tubarão Branco
+455;Não Provocado;BRAZIL;;Tubarão Branco
+456;Provocado;SOUTH AFRICA;59.0;Tubarão Cabeça-Chata
+457;Desastre Marítimo;USA;72.0;Tubarão Tigre
+458;Desastre Marítimo;AUSTRALIA;46.0;Tubarão Cabeça-Chata
+459;Não Provocado;BRAZIL;;Tubarão Tigre
+460;Provocado;AUSTRALIA;57.0;
+461;Provocado;AUSTRALIA;14.0;Tubarão Tigre
+462;Provocado;SOUTH AFRICA;57.0;
+463;Não Provocado;SOUTH AFRICA;12.0;Tubarão Cabeça-Chata
+464;Provocado;SOUTH AFRICA;56.0;Tubarão Tigre
+465;Desastre Marítimo;BRAZIL;71.0;
+466;Provocado;AUSTRALIA;;
+467;Não Provocado;BRAZIL;72.0;
+468;Provocado;SOUTH AFRICA;70.0;Tubarão Branco
+469;Provocado;AUSTRALIA;40.0;Tubarão Cabeça-Chata
+470;Desastre Marítimo;BRAZIL;26.0;
+471;Provocado;BRAZIL;33.0;Tubarão Tigre
+472;Desastre Marítimo;USA;;
+473;Desastre Marítimo;BRAZIL;59.0;Tubarão Branco
+474;Não Provocado;SOUTH AFRICA;79.0;Tubarão Cabeça-Chata
+475;Desastre Marítimo;BRAZIL;;Tubarão Branco
+476;Desastre Marítimo;AUSTRALIA;;Tubarão Branco
+477;Não Provocado;BRAZIL;59.0;Tubarão Branco
+478;Desastre Marítimo;USA;45.0;Tubarão Tigre
+479;Não Provocado;AUSTRALIA;17.0;Tubarão Cabeça-Chata
+480;Provocado;AUSTRALIA;;Tubarão Cabeça-Chata
+481;Não Provocado;USA;;Tubarão Tigre
+482;Desastre Marítimo;SOUTH AFRICA;56.0;Tubarão Cabeça-Chata
+483;Não Provocado;AUSTRALIA;70.0;Tubarão Branco
+484;Desastre Marítimo;SOUTH AFRICA;41.0;Tubarão Cabeça-Chata
+485;Provocado;AUSTRALIA;22.0;Tubarão Tigre
+486;Não Provocado;AUSTRALIA;10.0;Tubarão Branco
+487;Provocado;SOUTH AFRICA;43.0;Tubarão Tigre
+488;Desastre Marítimo;AUSTRALIA;71.0;
+489;Desastre Marítimo;SOUTH AFRICA;40.0;Tubarão Branco
+490;Provocado;USA;73.0;Tubarão Branco
+491;Não Provocado;SOUTH AFRICA;;Tubarão Cabeça-Chata
+492;Não Provocado;USA;47.0;Tubarão Branco
+493;Desastre Marítimo;AUSTRALIA;23.0;Tubarão Tigre
+494;Provocado;SOUTH AFRICA;17.0;Tubarão Cabeça-Chata
+495;Provocado;AUSTRALIA;63.0;
+496;Não Provocado;SOUTH AFRICA;11.0;Tubarão Tigre
+497;Não Provocado;USA;;
+498;Não Provocado;USA;70.0;
+499;Provocado;SOUTH AFRICA;;
+500;Não Provocado;USA;44.0;Tubarão Branco
+501;Não Provocado;AUSTRALIA;;Tubarão Tigre
+502;Desastre Marítimo;AUSTRALIA;59.0;Tubarão Tigre
+503;Não Provocado;BRAZIL;52.0;Tubarão Branco
+504;Não Provocado;USA;26.0;Tubarão Cabeça-Chata
+505;Provocado;AUSTRALIA;;
+506;Provocado;SOUTH AFRICA;11.0;Tubarão Tigre
+507;Desastre Marítimo;USA;13.0;Tubarão Branco
+508;Não Provocado;AUSTRALIA;48.0;
+509;Desastre Marítimo;USA;15.0;Tubarão Cabeça-Chata
+510;Provocado;SOUTH AFRICA;;Tubarão Cabeça-Chata
+511;Desastre Marítimo;AUSTRALIA;78.0;
+512;Provocado;BRAZIL;29.0;Tubarão Cabeça-Chata
+513;Desastre Marítimo;BRAZIL;73.0;Tubarão Tigre
+514;Desastre Marítimo;USA;25.0;Tubarão Tigre
+515;Não Provocado;SOUTH AFRICA;60.0;Tubarão Tigre
+516;Desastre Marítimo;AUSTRALIA;46.0;Tubarão Cabeça-Chata
+517;Não Provocado;SOUTH AFRICA;78.0;Tubarão Tigre
+518;Não Provocado;AUSTRALIA;51.0;Tubarão Branco
+519;Não Provocado;USA;66.0;Tubarão Tigre
+520;Não Provocado;AUSTRALIA;75.0;Tubarão Tigre
+521;Desastre Marítimo;SOUTH AFRICA;18.0;Tubarão Cabeça-Chata
+522;Provocado;SOUTH AFRICA;73.0;Tubarão Tigre
+523;Provocado;USA;31.0;
+524;Provocado;SOUTH AFRICA;43.0;Tubarão Branco
+525;Desastre Marítimo;AUSTRALIA;64.0;Tubarão Cabeça-Chata
+526;Não Provocado;USA;;Tubarão Branco
+527;Provocado;AUSTRALIA;47.0;
+528;Desastre Marítimo;SOUTH AFRICA;;Tubarão Cabeça-Chata
+529;Não Provocado;USA;74.0;Tubarão Cabeça-Chata
+530;Provocado;AUSTRALIA;10.0;Tubarão Tigre
+531;Não Provocado;SOUTH AFRICA;;Tubarão Branco
+532;Provocado;SOUTH AFRICA;13.0;
+533;Provocado;BRAZIL;36.0;
+534;Provocado;SOUTH AFRICA;52.0;Tubarão Cabeça-Chata
+535;Não Provocado;AUSTRALIA;;Tubarão Tigre
+536;Desastre Marítimo;USA;41.0;Tubarão Cabeça-Chata
+537;Não Provocado;BRAZIL;42.0;Tubarão Cabeça-Chata
+538;Provocado;SOUTH AFRICA;37.0;Tubarão Cabeça-Chata
+539;Não Provocado;SOUTH AFRICA;64.0;Tubarão Cabeça-Chata
+540;Desastre Marítimo;SOUTH AFRICA;69.0;
+541;Não Provocado;AUSTRALIA;;
+542;Desastre Marítimo;BRAZIL;;Tubarão Cabeça-Chata
+543;Desastre Marítimo;AUSTRALIA;43.0;Tubarão Cabeça-Chata
+544;Não Provocado;BRAZIL;65.0;Tubarão Tigre
+545;Provocado;USA;22.0;Tubarão Cabeça-Chata
+546;Desastre Marítimo;AUSTRALIA;65.0;
+547;Não Provocado;AUSTRALIA;27.0;Tubarão Branco
+548;Desastre Marítimo;USA;63.0;
+549;Provocado;BRAZIL;;Tubarão Tigre
+550;Não Provocado;SOUTH AFRICA;48.0;
+551;Não Provocado;USA;70.0;Tubarão Branco
+552;Não Provocado;SOUTH AFRICA;51.0;Tubarão Cabeça-Chata
+553;Provocado;SOUTH AFRICA;27.0;Tubarão Branco
+554;Desastre Marítimo;USA;;Tubarão Cabeça-Chata
+555;Não Provocado;BRAZIL;63.0;Tubarão Cabeça-Chata
+556;Desastre Marítimo;SOUTH AFRICA;39.0;
+557;Desastre Marítimo;USA;67.0;
+558;Provocado;AUSTRALIA;77.0;
+559;Não Provocado;AUSTRALIA;76.0;Tubarão Tigre
+560;Desastre Marítimo;AUSTRALIA;27.0;
+561;Não Provocado;USA;16.0;Tubarão Tigre
+562;Não Provocado;AUSTRALIA;;
+563;Provocado;SOUTH AFRICA;79.0;Tubarão Cabeça-Chata
+564;Não Provocado;AUSTRALIA;74.0;Tubarão Tigre
+565;Não Provocado;AUSTRALIA;77.0;Tubarão Branco
+566;Desastre Marítimo;SOUTH AFRICA;58.0;Tubarão Tigre
+567;Provocado;AUSTRALIA;61.0;Tubarão Tigre
+568;Não Provocado;SOUTH AFRICA;38.0;Tubarão Branco
+569;Desastre Marítimo;AUSTRALIA;30.0;Tubarão Tigre
+570;Provocado;SOUTH AFRICA;18.0;Tubarão Cabeça-Chata
+571;Provocado;AUSTRALIA;56.0;
+572;Desastre Marítimo;SOUTH AFRICA;;Tubarão Branco
+573;Desastre Marítimo;USA;60.0;
+574;Desastre Marítimo;SOUTH AFRICA;65.0;Tubarão Cabeça-Chata
+575;Desastre Marítimo;AUSTRALIA;;Tubarão Branco
+576;Desastre Marítimo;AUSTRALIA;;
+577;Não Provocado;BRAZIL;29.0;
+578;Não Provocado;SOUTH AFRICA;36.0;Tubarão Cabeça-Chata
+579;Provocado;USA;47.0;
+580;Não Provocado;SOUTH AFRICA;74.0;Tubarão Cabeça-Chata
+581;Não Provocado;SOUTH AFRICA;63.0;Tubarão Tigre
+582;Não Provocado;USA;;Tubarão Cabeça-Chata
+583;Desastre Marítimo;SOUTH AFRICA;56.0;Tubarão Tigre
+584;Provocado;USA;72.0;Tubarão Branco
+585;Provocado;USA;66.0;
+586;Provocado;SOUTH AFRICA;64.0;Tubarão Cabeça-Chata
+587;Provocado;SOUTH AFRICA;69.0;Tubarão Cabeça-Chata
+588;Não Provocado;AUSTRALIA;71.0;
+589;Não Provocado;AUSTRALIA;39.0;
+590;Desastre Marítimo;BRAZIL;31.0;Tubarão Branco
+591;Provocado;BRAZIL;38.0;Tubarão Branco
+592;Não Provocado;SOUTH AFRICA;50.0;Tubarão Cabeça-Chata
+593;Não Provocado;USA;51.0;Tubarão Branco
+594;Desastre Marítimo;BRAZIL;74.0;Tubarão Tigre
+595;Desastre Marítimo;SOUTH AFRICA;40.0;Tubarão Branco
+596;Desastre Marítimo;BRAZIL;;Tubarão Branco
+597;Não Provocado;USA;27.0;Tubarão Cabeça-Chata
+598;Não Provocado;SOUTH AFRICA;;Tubarão Tigre
+599;Desastre Marítimo;USA;47.0;Tubarão Branco
+600;Provocado;SOUTH AFRICA;23.0;Tubarão Tigre
+601;Desastre Marítimo;BRAZIL;65.0;Tubarão Tigre
+602;Desastre Marítimo;AUSTRALIA;;Tubarão Tigre
+603;Desastre Marítimo;BRAZIL;;
+604;Desastre Marítimo;BRAZIL;;
+605;Não Provocado;AUSTRALIA;28.0;
+606;Provocado;AUSTRALIA;;
+607;Desastre Marítimo;SOUTH AFRICA;53.0;Tubarão Cabeça-Chata
+608;Provocado;SOUTH AFRICA;44.0;Tubarão Branco
+609;Provocado;USA;10.0;
+610;Provocado;USA;61.0;Tubarão Cabeça-Chata
+611;Desastre Marítimo;BRAZIL;79.0;Tubarão Branco
+612;Não Provocado;AUSTRALIA;46.0;
+613;Desastre Marítimo;USA;74.0;Tubarão Branco
+614;Provocado;BRAZIL;60.0;
+615;Provocado;AUSTRALIA;10.0;Tubarão Cabeça-Chata
+616;Não Provocado;SOUTH AFRICA;;Tubarão Tigre
+617;Desastre Marítimo;BRAZIL;62.0;Tubarão Tigre
+618;Provocado;SOUTH AFRICA;25.0;Tubarão Branco
+619;Não Provocado;USA;70.0;Tubarão Cabeça-Chata
+620;Provocado;USA;63.0;Tubarão Tigre
+621;Não Provocado;AUSTRALIA;;
+622;Não Provocado;BRAZIL;35.0;Tubarão Tigre
+623;Desastre Marítimo;SOUTH AFRICA;74.0;Tubarão Branco
+624;Provocado;AUSTRALIA;73.0;Tubarão Branco
+625;Desastre Marítimo;USA;52.0;Tubarão Cabeça-Chata
+626;Provocado;USA;;Tubarão Branco
+627;Desastre Marítimo;BRAZIL;68.0;Tubarão Tigre
+628;Provocado;SOUTH AFRICA;;Tubarão Tigre
+629;Desastre Marítimo;BRAZIL;16.0;Tubarão Tigre
+630;Não Provocado;SOUTH AFRICA;53.0;Tubarão Tigre
+631;Provocado;SOUTH AFRICA;62.0;Tubarão Cabeça-Chata
+632;Provocado;BRAZIL;43.0;
+633;Não Provocado;AUSTRALIA;55.0;
+634;Desastre Marítimo;BRAZIL;77.0;Tubarão Cabeça-Chata
+635;Provocado;BRAZIL;25.0;Tubarão Branco
+636;Provocado;USA;28.0;
+637;Desastre Marítimo;USA;11.0;Tubarão Branco
+638;Não Provocado;BRAZIL;19.0;
+639;Desastre Marítimo;BRAZIL;59.0;Tubarão Branco
+640;Desastre Marítimo;USA;21.0;Tubarão Cabeça-Chata
+641;Desastre Marítimo;SOUTH AFRICA;79.0;Tubarão Tigre
+642;Provocado;BRAZIL;31.0;Tubarão Branco
+643;Não Provocado;AUSTRALIA;41.0;Tubarão Tigre
+644;Não Provocado;AUSTRALIA;10.0;Tubarão Branco
+645;Desastre Marítimo;AUSTRALIA;63.0;Tubarão Branco
+646;Provocado;BRAZIL;67.0;Tubarão Branco
+647;Desastre Marítimo;SOUTH AFRICA;79.0;Tubarão Branco
+648;Provocado;SOUTH AFRICA;;Tubarão Branco
+649;Provocado;USA;15.0;Tubarão Tigre
+650;Provocado;BRAZIL;54.0;Tubarão Branco
+651;Provocado;SOUTH AFRICA;32.0;Tubarão Tigre
+652;Não Provocado;BRAZIL;32.0;Tubarão Cabeça-Chata
+653;Provocado;USA;35.0;
+654;Provocado;USA;16.0;Tubarão Branco
+655;Desastre Marítimo;USA;;
+656;Desastre Marítimo;AUSTRALIA;;Tubarão Tigre
+657;Não Provocado;BRAZIL;35.0;Tubarão Cabeça-Chata
+658;Desastre Marítimo;USA;45.0;Tubarão Cabeça-Chata
+659;Provocado;BRAZIL;;Tubarão Cabeça-Chata
+660;Desastre Marítimo;AUSTRALIA;73.0;
+661;Não Provocado;AUSTRALIA;66.0;Tubarão Tigre
+662;Desastre Marítimo;USA;78.0;Tubarão Branco
+663;Desastre Marítimo;USA;70.0;Tubarão Branco
+664;Não Provocado;SOUTH AFRICA;;Tubarão Tigre
+665;Não Provocado;BRAZIL;;
+666;Provocado;USA;47.0;Tubarão Branco
+667;Desastre Marítimo;SOUTH AFRICA;38.0;Tubarão Tigre
+668;Provocado;BRAZIL;35.0;Tubarão Branco
+669;Desastre Marítimo;USA;;Tubarão Cabeça-Chata
+670;Desastre Marítimo;SOUTH AFRICA;;Tubarão Branco
+671;Provocado;SOUTH AFRICA;38.0;
+672;Desastre Marítimo;BRAZIL;43.0;Tubarão Tigre
+673;Desastre Marítimo;SOUTH AFRICA;;
+674;Desastre Marítimo;BRAZIL;50.0;Tubarão Tigre
+675;Não Provocado;BRAZIL;32.0;Tubarão Cabeça-Chata
+676;Provocado;BRAZIL;12.0;Tubarão Tigre
+677;Não Provocado;AUSTRALIA;;Tubarão Branco
+678;Provocado;SOUTH AFRICA;41.0;Tubarão Branco
+679;Provocado;BRAZIL;40.0;Tubarão Cabeça-Chata
+680;Desastre Marítimo;USA;;Tubarão Tigre
+681;Provocado;AUSTRALIA;16.0;Tubarão Cabeça-Chata
+682;Não Provocado;AUSTRALIA;10.0;Tubarão Branco
+683;Não Provocado;SOUTH AFRICA;;
+684;Não Provocado;BRAZIL;23.0;Tubarão Cabeça-Chata
+685;Provocado;SOUTH AFRICA;61.0;
+686;Não Provocado;AUSTRALIA;15.0;
+687;Provocado;BRAZIL;;Tubarão Tigre
+688;Não Provocado;USA;39.0;Tubarão Cabeça-Chata
+689;Não Provocado;BRAZIL;30.0;
+690;Provocado;AUSTRALIA;69.0;
+691;Não Provocado;USA;72.0;Tubarão Tigre
+692;Desastre Marítimo;BRAZIL;51.0;Tubarão Tigre
+693;Provocado;USA;60.0;Tubarão Branco
+694;Provocado;USA;73.0;
+695;Provocado;AUSTRALIA;;Tubarão Branco
+696;Desastre Marítimo;USA;50.0;
+697;Provocado;SOUTH AFRICA;41.0;Tubarão Branco
+698;Não Provocado;AUSTRALIA;;Tubarão Tigre
+699;Não Provocado;SOUTH AFRICA;71.0;Tubarão Cabeça-Chata
+700;Não Provocado;USA;36.0;Tubarão Tigre
+701;Provocado;SOUTH AFRICA;37.0;Tubarão Branco
+702;Não Provocado;BRAZIL;73.0;Tubarão Branco
+703;Provocado;USA;68.0;Tubarão Cabeça-Chata
+704;Não Provocado;BRAZIL;67.0;
+705;Desastre Marítimo;SOUTH AFRICA;11.0;Tubarão Branco
+706;Desastre Marítimo;BRAZIL;45.0;Tubarão Branco
+707;Desastre Marítimo;USA;22.0;Tubarão Branco
+708;Desastre Marítimo;BRAZIL;24.0;Tubarão Cabeça-Chata
+709;Provocado;SOUTH AFRICA;69.0;Tubarão Tigre
+710;Não Provocado;SOUTH AFRICA;31.0;Tubarão Branco
+711;Desastre Marítimo;SOUTH AFRICA;72.0;Tubarão Cabeça-Chata
+712;Provocado;USA;34.0;Tubarão Branco
+713;Desastre Marítimo;SOUTH AFRICA;57.0;
+714;Desastre Marítimo;USA;;Tubarão Cabeça-Chata
+715;Provocado;BRAZIL;;Tubarão Branco
+716;Provocado;SOUTH AFRICA;;Tubarão Cabeça-Chata
+717;Não Provocado;BRAZIL;;Tubarão Branco
+718;Não Provocado;AUSTRALIA;49.0;Tubarão Tigre
+719;Desastre Marítimo;BRAZIL;26.0;Tubarão Branco
+720;Desastre Marítimo;AUSTRALIA;66.0;Tubarão Cabeça-Chata
+721;Não Provocado;BRAZIL;11.0;
+722;Não Provocado;USA;71.0;
+723;Provocado;BRAZIL;18.0;
+724;Não Provocado;USA;77.0;Tubarão Branco
+725;Não Provocado;USA;26.0;Tubarão Tigre
+726;Desastre Marítimo;SOUTH AFRICA;59.0;Tubarão Branco
+727;Não Provocado;USA;49.0;
+728;Desastre Marítimo;AUSTRALIA;67.0;Tubarão Cabeça-Chata
+729;Não Provocado;SOUTH AFRICA;30.0;
+730;Provocado;SOUTH AFRICA;27.0;Tubarão Cabeça-Chata
+731;Não Provocado;BRAZIL;64.0;Tubarão Tigre
+732;Não Provocado;USA;38.0;Tubarão Cabeça-Chata
+733;Não Provocado;USA;;Tubarão Branco
+734;Desastre Marítimo;AUSTRALIA;26.0;Tubarão Branco
+735;Provocado;BRAZIL;27.0;Tubarão Branco
+736;Não Provocado;BRAZIL;51.0;Tubarão Cabeça-Chata
+737;Desastre Marítimo;SOUTH AFRICA;54.0;Tubarão Branco
+738;Provocado;SOUTH AFRICA;;Tubarão Branco
+739;Desastre Marítimo;SOUTH AFRICA;23.0;Tubarão Branco
+740;Desastre Marítimo;AUSTRALIA;58.0;Tubarão Tigre
+741;Provocado;AUSTRALIA;38.0;Tubarão Cabeça-Chata
+742;Não Provocado;SOUTH AFRICA;13.0;Tubarão Cabeça-Chata
+743;Desastre Marítimo;BRAZIL;29.0;
+744;Desastre Marítimo;AUSTRALIA;;Tubarão Cabeça-Chata
+745;Não Provocado;BRAZIL;18.0;Tubarão Tigre
+746;Não Provocado;BRAZIL;36.0;Tubarão Cabeça-Chata
+747;Provocado;USA;;Tubarão Tigre
+748;Provocado;SOUTH AFRICA;28.0;Tubarão Tigre
+749;Provocado;USA;;Tubarão Cabeça-Chata
+750;Não Provocado;SOUTH AFRICA;35.0;
+751;Desastre Marítimo;SOUTH AFRICA;;Tubarão Branco
+752;Desastre Marítimo;BRAZIL;35.0;Tubarão Branco
+753;Provocado;SOUTH AFRICA;;Tubarão Cabeça-Chata
+754;Não Provocado;BRAZIL;58.0;Tubarão Cabeça-Chata
+755;Desastre Marítimo;BRAZIL;62.0;Tubarão Tigre
+756;Provocado;SOUTH AFRICA;12.0;Tubarão Cabeça-Chata
+757;Desastre Marítimo;BRAZIL;75.0;Tubarão Tigre
+758;Desastre Marítimo;BRAZIL;51.0;
+759;Não Provocado;BRAZIL;28.0;Tubarão Cabeça-Chata
+760;Não Provocado;AUSTRALIA;26.0;Tubarão Branco
+761;Desastre Marítimo;BRAZIL;42.0;Tubarão Branco
+762;Provocado;AUSTRALIA;;Tubarão Cabeça-Chata
+763;Não Provocado;AUSTRALIA;65.0;Tubarão Tigre
+764;Desastre Marítimo;BRAZIL;;Tubarão Branco
+765;Não Provocado;BRAZIL;;Tubarão Tigre
+766;Não Provocado;AUSTRALIA;58.0;Tubarão Cabeça-Chata
+767;Não Provocado;AUSTRALIA;64.0;Tubarão Cabeça-Chata
+768;Desastre Marítimo;BRAZIL;35.0;Tubarão Branco
+769;Provocado;BRAZIL;61.0;Tubarão Cabeça-Chata
+770;Provocado;SOUTH AFRICA;16.0;
+771;Provocado;AUSTRALIA;55.0;
+772;Não Provocado;AUSTRALIA;55.0;Tubarão Branco
+773;Desastre Marítimo;SOUTH AFRICA;;
+774;Não Provocado;AUSTRALIA;33.0;Tubarão Tigre
+775;Provocado;USA;70.0;Tubarão Branco
+776;Provocado;AUSTRALIA;;Tubarão Branco
+777;Desastre Marítimo;SOUTH AFRICA;71.0;Tubarão Tigre
+778;Não Provocado;USA;10.0;
+779;Provocado;BRAZIL;;
+780;Desastre Marítimo;SOUTH AFRICA;34.0;
+781;Não Provocado;SOUTH AFRICA;19.0;Tubarão Branco
+782;Não Provocado;BRAZIL;25.0;Tubarão Branco
+783;Provocado;SOUTH AFRICA;;
+784;Provocado;AUSTRALIA;38.0;Tubarão Cabeça-Chata
+785;Não Provocado;BRAZIL;;
+786;Não Provocado;SOUTH AFRICA;25.0;Tubarão Tigre
+787;Provocado;BRAZIL;;Tubarão Branco
+788;Não Provocado;BRAZIL;52.0;Tubarão Tigre
+789;Provocado;BRAZIL;35.0;Tubarão Tigre
+790;Não Provocado;USA;42.0;Tubarão Branco
+791;Provocado;SOUTH AFRICA;35.0;Tubarão Cabeça-Chata
+792;Desastre Marítimo;USA;;
+793;Provocado;SOUTH AFRICA;72.0;Tubarão Tigre
+794;Provocado;AUSTRALIA;;Tubarão Branco
+795;Desastre Marítimo;AUSTRALIA;61.0;Tubarão Tigre
+796;Não Provocado;AUSTRALIA;77.0;
+797;Desastre Marítimo;SOUTH AFRICA;35.0;Tubarão Cabeça-Chata
+798;Provocado;BRAZIL;11.0;Tubarão Cabeça-Chata
+799;Não Provocado;BRAZIL;23.0;Tubarão Cabeça-Chata
+800;Desastre Marítimo;USA;39.0;Tubarão Branco
+484;Desastre Marítimo;SOUTH AFRICA;41.0;Tubarão Cabeça-Chata
+277;Desastre Marítimo;AUSTRALIA;16.0;Tubarão Branco
+438;Não Provocado;USA;60.0;
+648;Provocado;SOUTH AFRICA;;Tubarão Branco
+461;Provocado;AUSTRALIA;14.0;Tubarão Tigre
+102;Desastre Marítimo;SOUTH AFRICA;30.0;Tubarão Cabeça-Chata
+35;Desastre Marítimo;SOUTH AFRICA;31.0;Tubarão Cabeça-Chata
+603;Desastre Marítimo;BRAZIL;;
+725;Não Provocado;USA;26.0;Tubarão Tigre
+637;Desastre Marítimo;USA;11.0;Tubarão Branco
+752;Desastre Marítimo;BRAZIL;35.0;Tubarão Branco
+557;Desastre Marítimo;USA;67.0;
+165;Provocado;USA;;
+160;Provocado;USA;;Tubarão Tigre
+714;Desastre Marítimo;USA;;Tubarão Cabeça-Chata
+375;Provocado;AUSTRALIA;73.0;Tubarão Tigre
+131;Desastre Marítimo;SOUTH AFRICA;25.0;Tubarão Branco
+94;Provocado;SOUTH AFRICA;27.0;Tubarão Branco
+373;Desastre Marítimo;BRAZIL;32.0;
+368;Provocado;SOUTH AFRICA;46.0;
+510;Provocado;SOUTH AFRICA;;Tubarão Cabeça-Chata
+659;Provocado;BRAZIL;;Tubarão Cabeça-Chata
+694;Provocado;USA;73.0;
+129;Não Provocado;AUSTRALIA;66.0;Tubarão Tigre
+4;Não Provocado;USA;22.0;
+718;Não Provocado;AUSTRALIA;49.0;Tubarão Tigre
+650;Provocado;BRAZIL;54.0;Tubarão Branco
+408;Provocado;AUSTRALIA;51.0;
+72;Desastre Marítimo;SOUTH AFRICA;26.0;
+538;Provocado;SOUTH AFRICA;37.0;Tubarão Cabeça-Chata
+590;Desastre Marítimo;BRAZIL;31.0;Tubarão Branco
+68;Provocado;AUSTRALIA;68.0;Tubarão Cabeça-Chata
+738;Provocado;SOUTH AFRICA;;Tubarão Branco
+477;Não Provocado;BRAZIL;59.0;Tubarão Branco
+481;Não Provocado;USA;;Tubarão Tigre
+786;Não Provocado;SOUTH AFRICA;25.0;Tubarão Tigre
+489;Desastre Marítimo;SOUTH AFRICA;40.0;Tubarão Branco
+473;Desastre Marítimo;BRAZIL;59.0;Tubarão Branco
+576;Desastre Marítimo;AUSTRALIA;;
+565;Não Provocado;AUSTRALIA;77.0;Tubarão Branco
+369;Desastre Marítimo;BRAZIL;61.0;Tubarão Cabeça-Chata
+529;Não Provocado;USA;74.0;Tubarão Cabeça-Chata
+636;Provocado;USA;28.0;
+1;Não Provocado;USA;46.0;Tubarão Branco
+518;Não Provocado;AUSTRALIA;51.0;Tubarão Branco
